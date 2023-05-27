@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/Larksel/Vimp-Project/assets/94942278/96716961-ce86-482b-b520-596a9c221c2f)
+![Larksel Profile Banner](https://github.com/Larksel/Larksel/blob/main/imagens/Larksel%20Profile%20Banner.png)
 
 ### 🤝 Meus contatos:
 
