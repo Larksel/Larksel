@@ -1,5 +1,10 @@
 ![Profile Banner](https://github.com/Larksel/Vimp-Project/assets/94942278/96716961-ce86-482b-b520-596a9c221c2f)
 
+### 🤝 Meus contatos:
+
+<a href="https://www.linkedin.com/in/lemuel-f-129473241/"><img align="left" src="https://raw.githubusercontent.com/Larksel/Larksel/main/imagens/linkedin.svg" alt="Larksel | LinkedIn" width="21px"/></a>
+<br>
+
 ## 🔭 Estou trabalhando em
 
 - Vimp Project
@@ -38,4 +43,4 @@
 
 ## 📈 GitHub Stats 
 
-[![Larksel's GitHub stats](https://github-readme-stats.vercel.app/api?username=larksel&show_icons=true&theme=tokyonight  )](https://github.com/anuraghazra/github-readme-stats)
+[![Larksel's GitHub stats](https://github-readme-stats.vercel.app/api?username=larksel&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
