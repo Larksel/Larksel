@@ -1,5 +1,3 @@
-![Larksel Profile Banner](https://github.com/Larksel/Larksel/blob/main/imagens/Larksel%20Profile%20Banner.png)
-
 ## Bem vindo! Eu sou Lemuel.
 
 - 🔭 Sou técnico em desenvolvimento de sistemas.
@@ -24,6 +22,7 @@
 </div>
 
 ##
+
 <div>
   <a href="https://www.linkedin.com/in/lemuel-ferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
