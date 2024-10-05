@@ -52,10 +52,19 @@
 
 ## 📈 GitHub Stats
 
-![Lemuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Larksel&theme=dark&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&include_all_commits=true&count_private=true)
-![Lemuel's Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Larksel&langs_count=7&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div align="center">
+  <a href="https://github.com/Larksel/">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Larksel&theme=dark&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Larksel&langs_count=7&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+</div>
 
 ## 📌 Projetos em Destaque
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Larksel&repo=Vimp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Larksel/Vimp)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Larksel&repo=eRifaTec&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Larksel/eRifaTec)
+<div align="center">
+  <a href="https://github.com/Larksel/Vimp" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Larksel&repo=Vimp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" target="_blank">
+  </a>
+  <a href="https://github.com/Larksel/eRifaTec" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Larksel&repo=eRifaTec&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" target="_blank">
+  </a>
+</div>
